@@ -2108,6 +2108,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@nx-lock-affected/is-even@workspace:packages/is-even":
+  version: 0.0.0-use.local
+  resolution: "@nx-lock-affected/is-even@workspace:packages/is-even"
+  languageName: unknown
+  linkType: soft
+
+"@nx-lock-affected/is-odd@workspace:packages/is-odd":
+  version: 0.0.0-use.local
+  resolution: "@nx-lock-affected/is-odd@workspace:packages/is-odd"
+  languageName: unknown
+  linkType: soft
+
 "@parcel/watcher@npm:2.0.4":
   version: 2.0.4
   resolution: "@parcel/watcher@npm:2.0.4"
